@@ -1,1 +1,0 @@
-![Alt Text] (http://irl.cs.ucla.edu/~qiuhanding/Qiuhan.jpg)
