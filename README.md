@@ -1,5 +1,5 @@
 ###**Meng Li**
-<img src="./photos/ml.jpg"/>
+<img src="./photos/ml.jpg" height="240">
 
 
 ###**Tielong Su**
