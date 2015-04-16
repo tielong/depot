@@ -72,7 +72,7 @@ class ProductTest < ActiveSupport::TestCase
                           price:       1, 
                           image_url:   "fred.gif")
 
-    assert product.invalid?
+    assert !product.save
     assert_equal [I18n.translate('activerecord.errors.messages.taken')],
                  product.errors[:title]
   end
