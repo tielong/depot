@@ -9,6 +9,3 @@
 
 ###**Tielong Su**
 <img src="./photos/ts.jpg" height="240">
-
-###**Tielong's Dog**
-<img src="http://upload.wikimedia.org/wikipedia/commons/2/25/Brindle_pied_frenchbulldog.jpg" height="240">
